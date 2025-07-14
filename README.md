@@ -1,1 +1,1 @@
-Testimonial Slideshow: https://aryansharma14.github.io/testimonial-slideshow/
+Testimonial Slider: https://aryansharma14.github.io/testimonial-slider/
